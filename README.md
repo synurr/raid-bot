@@ -1,7 +1,7 @@
 # raid-bot
 RaidBot for discord using discord.py (https://github.com/Rapptz/discord.py)
 
-Please install all discord dependencies to use the bot.
+Please install all python dependencies to use the bot.
 
 This is in python 3.
 
